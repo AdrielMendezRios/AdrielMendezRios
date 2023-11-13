@@ -1,4 +1,7 @@
 ![Header](./Header4.png)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielMendezRios&layout=compact)
+
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <div padding="20px"> 
