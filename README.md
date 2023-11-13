@@ -1,6 +1,8 @@
 ![Header](./Header4.png)
 ### Hi there 👋
 
+![Visitor Count](https : //profile-counter.glitch.me/AdrielMendezRios/count.svg)
+
 <!--
 **AdrielMendezRios/AdrielMendezRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
