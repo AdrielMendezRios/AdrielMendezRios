@@ -1,4 +1,4 @@
-![Header](./Github Header.png)
+![Header](./ProfileHeader.png)
 ### Hi there 👋
 
 <!--
